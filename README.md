@@ -1,4 +1,4 @@
-#Nuclear Bombs
+Nuclear Bombs
  
 Check out all my mods: https://linktr.ee/chickenmods
  
