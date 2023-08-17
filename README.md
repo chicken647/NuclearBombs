@@ -5,7 +5,7 @@ Check out all my mods: https://linktr.ee/chickenmods
 Check out the Mod Wiki: [Click Me](https://gitlab.com/chicken647/nuclear_bombs/-/wikis/home) 
 
  
-Nuclear Bombs to Destroy Your World.. 
+
 
  
 + Custom Crafting Machines
